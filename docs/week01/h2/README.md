@@ -1,0 +1,1 @@
+Flutter menggunakan prinsip yatu setiap widget itu memiliki satu tanggung jawab,center berfokus pada logika tata letak sedangkan text itu berfokus kepada proses dan penampakan teks.
